@@ -33,6 +33,9 @@ for i in range(len(stack)):
 
 ## Output
 
+![447845887-179d1ecb-2092-4ed4-84f4-f40621474d49](https://github.com/user-attachments/assets/9601efaa-dba7-4efe-a2e4-207506654246)
+
 
 ## Result
 
+Thus, the given program is implemented and executed successfully.
