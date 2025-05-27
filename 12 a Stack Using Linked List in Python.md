@@ -42,6 +42,8 @@ print(stack)
 ```
 ## OUTPUT
 
-## RESULT
+![447845112-f15d33f8-69c5-498a-9c49-173ebc80d845](https://github.com/user-attachments/assets/7735b70f-79d3-45d5-aa31-81282a1b1003)
 
+## RESULT
+Thus, the given program is implemented and executed successfully.
 
