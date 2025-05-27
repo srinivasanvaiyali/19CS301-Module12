@@ -29,9 +29,13 @@ print('Initial Queue:', queue)
 # Print front and rear elements
 print("\nElement at the front of the queue is", queue[0])
 print("\nElement at the rear of the queue is", queue[-1])
+```
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/3e9ab513-7be1-4374-b30b-ce19f815607d)
+
 
 
 ## RESULT
+The given program is successfully executed.
